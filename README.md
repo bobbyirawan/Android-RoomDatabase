@@ -1,4 +1,4 @@
 # Android-RoomDatabase
 Insert, Read, Update, Delete
  
-gradle   4.2.0-beta02 versi 1.6.7
+gradle 4.9.2 versi 6.1.1
